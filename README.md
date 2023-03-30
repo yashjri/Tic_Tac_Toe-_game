@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="http://www.github.com/yashjri"><img src="C:\Users\Yash Singh\OneDrive\Desktop\PROJECTS(HTML,CSS,JAVASCRIPT)\JavaScript-Tic-Tac-Toe\tic_tac_toe.png" alt="tic_tac_toe" width="200"></a>
+  <a href="http://www.github.com/yashjri"><img src="https://github.com/yashjri/Tic_Tac_Toe-_game/blob/master/tic_tac_toe.png" alt="tic_tac_toe" width="200"></a>
   <br>
   Tic Tac Toe
   <br>
