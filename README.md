@@ -5,7 +5,8 @@
   Tic Tac Toe
   <br>
 </h1>
-### About The Project <br>
+
+### About The Project 
 Here's the game of TIC TAC TOE which is made with Basic Frontend Technologies.
 
 ### Built With
