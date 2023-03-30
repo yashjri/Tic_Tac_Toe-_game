@@ -10,9 +10,9 @@
 Here's the game of TIC TAC TOE which is made with Basic Frontend Technologies.
 
 ### Built With
-This section should list any major languages used to create project.Here are a few examples.
-HTML5
-CSS3
-Javascript
+This section should list any major languages used to create project.Here are a few examples.<br>
+->HTML5
+->CSS3
+->Javascript
 
 
